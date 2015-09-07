@@ -4,4 +4,9 @@
   <artifactId>mrc-main</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <scm>
+	<connection>scm:git:git@github.com:cenicol/MistyChat.git</connection>
+	<url>scm:git:git@github.com:cenicol/MistyChat.git</url>
+	<developerConnection>scm:git:git@github.com:cenicol/MistyChat.git</developerConnection>
+  </scm>
 </project>
